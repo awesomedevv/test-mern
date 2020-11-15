@@ -92,6 +92,6 @@ Email Me: wang198904@gmail.com
 
 ## Screenshots
 
-![1](E:\Workspace\test-mern\1.png)
+![1](1.png?raw=true)
 
-![2](E:\Workspace\test-mern\2.png)
+![2](2.png?raw=true)
